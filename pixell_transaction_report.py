@@ -20,6 +20,7 @@ total_transaction_amount = 0
 is_valid_record = True
 error_message = []
 
+password = "admin123"
 # Clears the terminal
 os.system('cls' if os.name == 'nt' else 'clear')
 
