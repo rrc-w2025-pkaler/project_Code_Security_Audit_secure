@@ -11,6 +11,7 @@ __version__ = "0.11.2024"
 import csv
 import os
  
+ 
 valid_transaction_types = ['deposit', 'withdraw']
 customer_data = {}
 rejected_records = []
